@@ -1,5 +1,7 @@
 # Stokvels in Algorand Blockchain 
 
+A stokvel is a type of credit union in which a group of people enter into an agreement to contribute a fixed amount of money to a common pool weekly, fortnightly or monthly. Universally, such a system is known as a rotating savings and credit association which is a group of individuals who agree to meet for a defined period to save together, with each member receiving a periodic payout.
+
 This is a development of a stokvel application (CLI) on the Algorand blockchain to demonstrate how to run a decentralised stokvel amongst 5 participants. 
 
 The constitution of the stokvel is as follows:
